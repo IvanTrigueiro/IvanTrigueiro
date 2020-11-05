@@ -10,7 +10,7 @@ I like solving problems using any tool available/necessary for the job.
 - 🔭 I’m currently studying Computer Engineering on Universidade Federal da Paraíba
 - 🌱 I’m currently learning robotics, AI and Android Studio.
 - :page_facing_up: I like to learn new languages(I can currently speak English, Portuguese, Spanish and a little bit of Japanese) and I have a deep interest in any knowledge on economy, bitcoin, blockchain.
-- :video_game: I enjoy playing Dota 2, watching Twitch or Netflix/PrimeVideo, riding bike and work out.
+- :video_game: I enjoy developing exciting projects, playing Dota 2, watching Twitch, riding bike and work out.
 - 💬 Ask me about anything you want.
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-IvanTrigueiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivantrigueiro/)](https://www.linkedin.com/in/ivantrigueiro/) 
