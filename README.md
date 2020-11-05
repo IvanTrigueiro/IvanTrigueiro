@@ -9,7 +9,7 @@ I like solving problems using any tool available/necessary for the job.
 
 - 🔭 I’m currently studying Computer Engineering on Universidade Federal da Paraíba
 - 🌱 I’m currently learning robotics, AI and Android Studio.
-- :page_facing_up: I like to learn new languages and I have a deep interest in any knowledge on economy, bitcoin, blockchain.
+- :page_facing_up: I like to learn new languages(I can currently speak English, Portuguese, Spanish and a little bit of Japanese) and I have a deep interest in any knowledge on economy, bitcoin, blockchain.
 - :video_game: I enjoy playing Dota 2, watching Twitch or Netflix/PrimeVideo, riding bike and work out.
 - 💬 Ask me about anything you want.
 - 📫 How to reach me:
